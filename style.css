@@ -216,7 +216,12 @@ a:-webkit-any-link {
 .nav li {
   color: #fff;
   text-decoration: none;
+  list-style: none;
   margin-bottom: 10px;
+}
+
+.nav li:hover {
+  text-decoration: underline;
 }
 
 .nav ul {
