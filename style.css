@@ -111,7 +111,7 @@ p {
   float: left;
 }
 
-.content {
+main {
   margin: 2%;
   /* width: 80%; */
   display: inline-block;
@@ -421,6 +421,10 @@ a:focus-visible {
   margin-bottom: 10px;
 
   border: 1px solid #fff;
+}
+
+#grid {
+  background-color: white;
 }
 
 .fullwidth {
